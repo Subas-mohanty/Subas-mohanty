@@ -5,16 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/subas256" target="_blank"><img src="https://img.shields.io/twitter/follow/subas256?logo=twitter&style=for-the-badge" alt="subas256" /></a> </p>
 
-- 🌱 I’m currently learning **Web development(Node js & express js), Data structures & algorithm**
+- 🌱 I’m currently learning **Next JS and React JS**
 
-- 👨‍💻 All of my projects are available at [https://subasmohanty.vercel.app/](https://subasmohanty.vercel.app/)
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1AuRAhXTcUoUkONOrnn55yS48GQLMGZ8V/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HfvsneKf7H_bWlrS2GGXAJtVTglaKUiI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subas256" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subas256" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subasmohanty256/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subasmohanty256/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/subas-mohanty/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subasmohanty256/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/subas-mohanty" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/subas-mohanty" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23430026/subas-mohanty" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user23430026" height="30" width="40" /></a>
 
